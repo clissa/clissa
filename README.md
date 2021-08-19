@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clissa&theme=algolia&show_icons=true&custom_title=Luca's GitHub stats&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clissa&hide=javascript,html,css&theme=algolia&card_width=500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clissa&hide=javascript,html,css&theme=algolia&card_width=495" />
 </a>
 
