@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Luca 👋
 
 <!--
 **clissa/clissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clissa&theme=algolia&show_icons=true&custom_title=Luca's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clissa&theme=algolia&show_icons=true&custom_title=Luca's GitHub stats&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clissa&layout=compact&hide=javascript,html,css&theme=algolia" />
