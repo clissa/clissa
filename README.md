@@ -75,6 +75,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clissa&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+[![GitHub followers](https://img.shields.io/github/followers/clissa?style=social)](https://github.com/clissa)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=clissa&theme=algolia&show_icons=true&custom_title=Luca's GitHub stats&count_private=true" />
 </a>
