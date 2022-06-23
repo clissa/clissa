@@ -58,12 +58,13 @@ Here are some ideas to get you started:
   <a href="https://scholar.google.com/citations?user=8CR1h-MAAAAJ&hl=it">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google_scholar.svg" alt="Luca Clissa's Google Scholar Profile" height="30" width="30">
   </a>
-  
-  <a href="https://orcid.org/0000-0002-4876-5200">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/orcid.svg" alt="Luca Clissa's Orcid Profile" height="30" width="30">
-  </a>
  
+  <a href="https://medium.com/@luca.clissa">
+    <img src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" alt="Luca Clissa's Medium Profile" height="17" width="30">
+  </a>
+  
 </p>
+
 
 
 --- 
