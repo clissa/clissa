@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Current Activity
-🎓 I'm a **PhD candidate** in [Data Science and Computation @ UNIBO](https://phd-dsc.unibopolimi.it/)
+🎓 I'm a **PhD** in [Data Science and Computation @ UNIBO](https://phd-dsc.unibopolimi.it/)
 
 📝 Projects I've worked on include:
   - transition from human-based to AI-assisted detection and counting of neuronal cells in fluorescent microscopy images 🔬 📸
