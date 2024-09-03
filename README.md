@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## Current Activity
-🎓 I'm a **PhD** in [Data Science and Computation @ UNIBO](https://phd-dsc.unibopolimi.it/)
+🎓 I'm a researcher @ University of Bologna, Department of Physics and Astronomy
+
+📚 I'm lecturer for [courses](https://www.unibo.it/sitoweb/luca.clissa2/didattica) of _Statistical Data Analysis_ and _Applied Machine Learning_
+
+:atom: I collaborate with the ATLAS experiment @ CERN
 
 📝 Projects I've worked on include:
+  - deep learning on pointclouds for particle flow in ATLAS detector
   - transition from human-based to AI-assisted detection and counting of neuronal cells in fluorescent microscopy images 🔬 📸
   - supporting the management of large computing infrastructures with NLP tools for topic modelling 💾 💡
   - predicting COVID-19 hospitalizations for supporting hospital bed scheduling during phase II of the pandemic 🛌 🏥
@@ -37,9 +42,9 @@ Here are some ideas to get you started:
 ## Interests
 
 🤔 Things I'm curious about:
+  - Sport Analytics
   - Self-Supervised Learning
   - Reinforcement Learning
-  - Continual Learning
 
 ---
 
