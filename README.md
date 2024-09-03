@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 📝 Projects I've worked on include:
   - deep learning on pointclouds for particle flow in ATLAS detector
-  - transition from human-based to AI-assisted detection and counting of neuronal cells in fluorescent microscopy images 🔬 📸
-  - supporting the management of large computing infrastructures with NLP tools for topic modelling 💾 💡
+  - transition from human-based to AI-assisted detection and counting of neuronal cells in fluorescent microscopy images 🔬 📸 [[1]](https://www.nature.com/articles/s41598-021-01929-5), [[2]](https://www.nature.com/articles/s41597-024-03005-9), [[3]](https://link.springer.com/chapter/10.1007/978-3-031-51023-6_16), [[4]](https://amsacta.unibo.it/id/eprint/7347/)
+  - supporting the management of large computing infrastructures with NLP tools for topic modelling 💾 💡 [[5]](https://link.springer.com/article/10.1007/s41781-022-00089-z), [[6]](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2023.1271639/full), [[7]](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2021.753409/full), [[9]](https://www.epj-conferences.org/articles/epjconf/pdf/2020/21/epjconf_chep2020_03017.pdf)
   - predicting COVID-19 hospitalizations for supporting hospital bed scheduling during phase II of the pandemic 🛌 🏥
-  - designing machine learning algorithms for quantum computing :atom: 🖥️
+  - designing machine learning algorithms for quantum computing :atom: 🖥️ [[10]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7304770/), [[11]](https://arxiv.org/pdf/2303.05428), [[12]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/qtc2.12087)
 
 ---
 
