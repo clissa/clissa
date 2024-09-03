@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## Current Activity
-🎓 I'm a researcher @ University of Bologna, Department of Physics and Astronomy
+🎓 Researcher @ University of Bologna, Department of Physics and Astronomy
 
-📚 I'm lecturer for [courses](https://www.unibo.it/sitoweb/luca.clissa2/didattica) of _Statistical Data Analysis_ and _Applied Machine Learning_
+📚 Lecturer for @ University of Bologna, [courses](https://www.unibo.it/sitoweb/luca.clissa2/didattica) in _Statistical Data Analysis_ and _Applied Machine Learning_
 
-:atom: I collaborate with the ATLAS experiment @ CERN
+:atom: Affiliated to ATLAS experiment @ CERN
 
 📝 Projects I've worked on include:
   - Deep Learning on pointclouds for particle flow in ATLAS detector
