@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Current Activity
 🎓 Researcher @ University of Bologna, Department of Physics and Astronomy
 
-📚 Lecturer for @ University of Bologna, [courses](https://www.unibo.it/sitoweb/luca.clissa2/didattica) in _Statistical Data Analysis_ and _Applied Machine Learning_
+📚 Lecturer @ University of Bologna, [courses](https://www.unibo.it/sitoweb/luca.clissa2/didattica) in _Statistical Data Analysis_ and _Applied Machine Learning_
 
 :atom: Affiliated to ATLAS experiment @ CERN
 
