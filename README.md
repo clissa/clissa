@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 ## Current Activity
 🎓 Researcher @ University of Bologna, Department of Physics and Astronomy
 
-📚 Lecturer @ University of Bologna, [courses](https://www.unibo.it/sitoweb/luca.clissa2/didattica) in _Statistical Data Analysis_ and _Applied Machine Learning_
+📚 Teaching @ University of Bologna
+ - Master Degree in Physics: [_Statistical Data Analysis_](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/433558)
+ - Master Degree in Bioinformatics: _Applied Machine Learning ([Basic](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/504318) and [Advanced](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/455028))_
+ - [Master Degree in High Performance and Quantum Computing](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/master/2024-2025/high-performance-and-quantum-computing): _Introduction to discriminative AI methods_
 
 :atom: Affiliated to ATLAS experiment @ CERN
 
